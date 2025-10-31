@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "type": "tweet",
+    "content": "does anyone else remember when youtube had 5 stars instead of likes/dislikes? those were simpler times",
+    "author": "nostalgic_user_2008",
+    "year": 2008,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 2,
+    "type": "forum",
+    "content": "FIRST POST!! omg i'm so excited to be here. been lurking for months but finally made an account. this community seems amazing 💕",
+    "author": "newbie_dreams",
+    "year": 2005,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 3,
+    "type": "email",
+    "content": "my first email was xxdarkangel2003xx@yahoo.com and i thought i was SO cool. the x's made it edgy, you know?",
+    "author": "reformed_emo_kid",
+    "year": 2003,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 4,
+    "type": "meme",
+    "content": "ALL YOUR BASE ARE BELONG TO US - this meme literally broke the early internet and we all loved it",
+    "author": "meme_archaeologist",
+    "year": 2001,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 5,
+    "type": "blog",
+    "content": "logged into my livejournal for the first time in 10 years. my teenage angst posts are... wow. 'nobody understands my pain' with linkin park lyrics. peak 2006.",
+    "author": "millennial_cringe",
+    "year": 2006,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 6,
+    "type": "vine",
+    "content": "RIP Vine, you were perfect and they killed you. 6 seconds of pure creativity. now we have 60-second tiktoks that feel like movies",
+    "author": "vine_mourner",
+    "year": 2017,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 7,
+    "type": "forum",
+    "content": "remember when you had to actually LEARN html to make your myspace look good? <marquee> tags and glittery backgrounds everywhere",
+    "author": "html_survivor",
+    "year": 2007,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 8,
+    "type": "chat",
+    "content": "a/s/l? - three letters that defined a generation of internet kids. we were all 18/f/cali apparently",
+    "author": "chatroom_veteran",
+    "year": 2002,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 9,
+    "type": "forum",
+    "content": "Flash games were ART. newgrounds was our netflix. stick fight animations had better plots than most movies today",
+    "author": "flash_defender",
+    "year": 2004,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 10,
+    "type": "tweet",
+    "content": "when limewire gave your computer 47 viruses but you finally got that one song you wanted. worth it? absolutely.",
+    "author": "piracy_survivor",
+    "year": 2006,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 11,
+    "type": "forum",
+    "content": "Logging off AIM with an away message was an ART FORM. 'brb homework :-(' but really going to play runescape for 6 hours",
+    "author": "away_message_poet",
+    "year": 2005,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 12,
+    "type": "blog",
+    "content": "spent 3 hours customizing my tumblr theme just to change it again tomorrow. the aesthetic must be PERFECT",
+    "author": "tumblr_perfectionist",
+    "year": 2012,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 13,
+    "type": "meme",
+    "content": "ORLY? YA RLY! NO WAI! - owl memes were peak internet humor and you can't convince me otherwise",
+    "author": "owl_enthusiast",
+    "year": 2006,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 14,
+    "type": "forum",
+    "content": "The cake is a lie. This phrase defined gaming culture for a decade. Portal was a masterpiece.",
+    "author": "aperture_scientist",
+    "year": 2007,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 15,
+    "type": "chat",
+    "content": "MSN Messenger nudges were either flirting or pure annoyance. No in between. *nudge* *nudge* *nudge*",
+    "author": "nudge_victim",
+    "year": 2004,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 16,
+    "type": "email",
+    "content": "Forward this email to 10 friends or bad luck for 7 years! - and we actually did it because what if it was real???",
+    "author": "chain_letter_believer",
+    "year": 2003,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 17,
+    "type": "forum",
+    "content": "Firefox with 47 toolbars installed because every website wanted you to install their toolbar. How did we browse anything?",
+    "author": "toolbar_collector",
+    "year": 2008,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 18,
+    "type": "blog",
+    "content": "Dear diary, today I found out my crush liked my facebook status from 2 years ago. Does this mean something??? - livejournal entry",
+    "author": "hopeless_romantic_2009",
+    "year": 2009,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 19,
+    "type": "meme",
+    "content": "I can has cheezburger? - lolcats taught us that broken english + cute animals = internet gold",
+    "author": "lolcat_historian",
+    "year": 2007,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 20,
+    "type": "forum",
+    "content": "Digg was supposed to be the front page of the internet. Then v4 happened and we all fled to reddit. RIP digg.",
+    "author": "digg_refugee",
+    "year": 2010,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 21,
+    "type": "tweet",
+    "content": "When Twitter was just 'what are you doing?' not 'what's happening?' Different energy. Simpler times.",
+    "author": "twitter_historian",
+    "year": 2009,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 22,
+    "type": "forum",
+    "content": "FIRST! - getting first comment was the highest honor on early internet. Now it's just spam bots.",
+    "author": "first_comment_legend",
+    "year": 2005,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 23,
+    "type": "blog",
+    "content": "Friendster -> Myspace -> Facebook -> Instagram -> TikTok. We've been through so many digital homes.",
+    "author": "social_media_nomad",
+    "year": 2020,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 24,
+    "type": "meme",
+    "content": "Dancing baby gif. Ally McBeal. The first viral internet sensation. Before we even knew what viral meant.",
+    "author": "gif_pioneer",
+    "year": 1996,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 25,
+    "type": "forum",
+    "content": "'This video is not available in your country' - the phrase that taught us about VPNs",
+    "author": "geo_blocked_soul",
+    "year": 2011,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 26,
+    "type": "chat",
+    "content": "'brb' meant 5 minutes. 'g2g' meant right now. 'ttyl' meant see you tomorrow. AIM had its own language.",
+    "author": "aim_linguist",
+    "year": 2004,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 27,
+    "type": "forum",
+    "content": "Remember when Wikipedia wasn't allowed as a source because 'anyone can edit it'? Now it's more reliable than most news.",
+    "author": "wikipedia_defender",
+    "year": 2008,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 28,
+    "type": "blog",
+    "content": "Collecting music on your iPod was an identity. Your taste defined you. Now it's all algorithmic recommendations.",
+    "author": "ipod_curator",
+    "year": 2006,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 29,
+    "type": "meme",
+    "content": "Rickrolling was peak internet trolling. Pure, harmless chaos. We'll never gonna give that up.",
+    "author": "rickroll_veteran",
+    "year": 2008,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 30,
+    "type": "forum",
+    "content": "'Have you tried turning it off and on again?' - IT Crowd was documentary, not comedy",
+    "author": "tech_support_survivor",
+    "year": 2007,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 31,
+    "type": "blog",
+    "content": "Internet Explorer 6 was the devil but we all used it anyway. Those were dark times for web development.",
+    "author": "css_nightmare_survivor",
+    "year": 2005,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 32,
+    "type": "meme",
+    "content": "LEEROY JENKINS! This moment broke World of Warcraft and defined gaming forever. Pure chaos.",
+    "author": "raid_historian",
+    "year": 2005,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 33,
+    "type": "forum",
+    "content": "Netscape Navigator vs Internet Explorer. The first browser war. Simpler times when the web was wild.",
+    "author": "browser_war_veteran",
+    "year": 1999,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 34,
+    "type": "chat",
+    "content": "ICQ number was your digital identity. Mine was 8 digits. If you had 6 digits, you were internet royalty.",
+    "author": "icq_elder",
+    "year": 2001,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 35,
+    "type": "forum",
+    "content": "'This page best viewed in Netscape 4.0 at 800x600' - web standards were just suggestions back then",
+    "author": "resolution_rebel",
+    "year": 1998,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 36,
+    "type": "email",
+    "content": "You've got mail! That AOL notification was pure dopamine. Dial-up internet made every email precious.",
+    "author": "dialup_nostalgic",
+    "year": 2000,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 37,
+    "type": "blog",
+    "content": "Geocities websites with spinning gifs, under construction signs, and visitor counters. Peak web design.",
+    "author": "geocities_architect",
+    "year": 2002,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 38,
+    "type": "meme",
+    "content": "Badger badger badger mushroom mushroom! This song haunted our brains for years. No escape.",
+    "author": "badger_victim",
+    "year": 2003,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 39,
+    "type": "forum",
+    "content": "eBaum's World was where memes went to die. Stolen content empire but we loved it anyway.",
+    "author": "ebaums_survivor",
+    "year": 2004,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 40,
+    "type": "chat",
+    "content": "Yahoo Messenger chat rooms were the wild west. A/S/L was just the beginning of the chaos.",
+    "author": "yahoo_chat_veteran",
+    "year": 2003,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 41,
+    "type": "blog",
+    "content": "Xanga was where we posted song lyrics and thought we were poets. The cringe was real but beautiful.",
+    "author": "xanga_poet",
+    "year": 2005,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 42,
+    "type": "forum",
+    "content": "'Error 404: Page Not Found' - this phrase defined early internet frustration. Links died daily.",
+    "author": "broken_link_mourner",
+    "year": 2001,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 43,
+    "type": "meme",
+    "content": "Hampster Dance was hypnotic nightmare fuel. Once you heard it, it never left your brain.",
+    "author": "hampster_trauma_survivor",
+    "year": 1999,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 44,
+    "type": "forum",
+    "content": "Slashdot effect could kill any website. Getting mentioned there was death by traffic. RIP servers.",
+    "author": "slashdot_victim",
+    "year": 2002,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 45,
+    "type": "tweet",
+    "content": "When 'going viral' meant your computer had a virus, not your content was popular. Different times.",
+    "author": "viral_confusion",
+    "year": 2004,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 46,
+    "type": "blog",
+    "content": "Waiting 5 minutes for a single photo to load on dial-up. Made every image precious. Patience was everything.",
+    "author": "dialup_monk",
+    "year": 2001,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 47,
+    "type": "forum",
+    "content": "YTMND created the first meme culture. You're the man now dog! Random was an art form.",
+    "author": "ytmnd_archaeologist",
+    "year": 2004,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 48,
+    "type": "chat",
+    "content": "'Mom hang up the phone I'm using the internet!' - dial-up struggles were real family drama.",
+    "author": "dialup_family_survivor",
+    "year": 2002,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 49,
+    "type": "meme",
+    "content": "Zombo.com: You can do anything at Zombo.com. The most mysterious website ever created.",
+    "author": "zombo_philosopher",
+    "year": 2001,
+    "corruptionLevel": 0,
+    "saved": false
+  },
+  {
+    "id": 50,
+    "type": "forum",
+    "content": "Something Awful forums spawned the internet's best and worst content. Goons ruled the early web.",
+    "author": "something_awful_goon",
+    "year": 2003,
+    "corruptionLevel": 0,
+    "saved": false
+  }
+]

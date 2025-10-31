@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌑 THE LAST SCROLL</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="glitch.css">
+</head>
+<body>
+    <div id="header">
+        <h1 class="title">🌑 THE LAST SCROLL</h1>
+        <div class="stats">
+            <div class="stat">
+                <span class="label">Internet Integrity:</span>
+                <span id="integrity" class="value">100%</span>
+            </div>
+            <div class="stat">
+                <span class="label">Saves Remaining:</span>
+                <span id="saves-remaining" class="value">15</span>
+            </div>
+            <div class="stat countdown">
+                <span class="label">Internet dies in:</span>
+                <span id="countdown" class="value">10:00</span>
+            </div>
+        </div>
+    </div>
+
+    <div id="feed" class="feed">
+        <div class="intro-message">
+            <p>The internet is dying. Not quickly. Slowly. Painfully.</p>
+            <p>You're scrolling through the last fragments of digital history.</p>
+            <p><strong>You can save some. But not all.</strong></p>
+            <p class="fade-hint">Scroll to begin the apocalypse...</p>
+        </div>
+    </div>
+
+    <div id="vault-btn" class="vault-button" onclick="showVault()">
+        <span>📦 Your Vault (<span id="vault-count">0</span>)</span>
+    </div>
+
+    <div id="end-screen" class="end-screen hidden">
+        <div class="end-content">
+            <h1>THE INTERNET IS DEAD</h1>
+            <div class="end-stats">
+                <div class="stat-big">
+                    <span class="number" id="saved-count">0</span>
+                    <span class="label">memories saved</span>
+                </div>
+                <div class="stat-big">
+                    <span class="number" id="lost-count">0</span>
+                    <span class="label">memories lost forever</span>
+                </div>
+                <div class="stat-big">
+                    <span class="number">0%</span>
+                    <span class="label">internet integrity</span>
+                </div>
+            </div>
+            <div class="final-message">
+                <p>You tried to save what mattered.</p>
+                <p>But the digital apocalypse waits for no one.</p>
+                <p><strong>What you saved is all that remains.</strong></p>
+            </div>
+            <button onclick="showVault()" class="view-vault-btn">View Your Vault</button>
+            <button onclick="restart()" class="restart-btn">Start Over</button>
+        </div>
+    </div>
+
+    <div id="vault-modal" class="vault-modal hidden">
+        <div class="vault-content">
+            <div class="vault-header">
+                <h2>📦 YOUR VAULT</h2>
+                <p>These are the memories you chose to preserve:</p>
+                <button onclick="closeVault()" class="close-btn">×</button>
+            </div>
+            <div id="vault-items" class="vault-items">
+                <!-- Saved memories will appear here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
